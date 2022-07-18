@@ -1,5 +1,5 @@
 ### Hi there
-![visitors](https://visitor-badge.glitch.me/badge?page_id=nirajpdn.visitor-badge)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=nirajpdn.visitor-badge) -->
 
 ![Niraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=nirajpdn&show_icons=true&theme=tokyonight)
 ![Niraj's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)
