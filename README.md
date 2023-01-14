@@ -2,6 +2,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nirajpdn.visitor-badge)
 <div>
 <img align="left"  width="49%" src="https://github-readme-stats.vercel.app/api?username=nirajpdn&count_private=true&theme=tokyonight&show_icons=true" />
+  
 <img align="left"  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirajpdn&layout=compact&theme=tokyonight" />
 </div>
 <!--
