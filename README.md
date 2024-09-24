@@ -1,5 +1,5 @@
 ### Hi there
-![visitors](https://visitor-badge.glitch.me/badge?page_id=nirajpdn.visitor-badge)
+![visitors](https://visitor-badge.lithub.cc/badge?page_id=page.id&left_color=red&right_color=green)
 <div>
 <img align="left"  width="49%" src="https://github-readme-stats.vercel.app/api?username=nirajpdn&count_private=true&theme=tokyonight&show_icons=true" />
   
