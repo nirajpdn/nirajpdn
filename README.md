@@ -1,6 +1,6 @@
 ### Hi there
-<p align='center'>
-   <a href="https://github.com/nirajpdn/github-visitors-badge">
+<p>
+   <a href="https://github.com/nirajpdn">
       <img src="https://api.visitorbadge.io/api/VisitorHit?user=nirajpdn&repo=nirajpdn&countColor=%2331708f" />
    </a>
 </p>
