@@ -1,9 +1,5 @@
 ### Hi there
-<p>
-   <a href="https://github.com/nirajpdn">
-      <img src="https://api.visitorbadge.io/api/VisitorHit?user=nirajpdn&repo=nirajpdn&countColor=%2331708f" />
-   </a>
-</p>
+
 <div>
 <img align="left"  width="49%" src="https://github-readme-stats.vercel.app/api?username=nirajpdn&count_private=true&theme=tokyonight&show_icons=true" />
   
