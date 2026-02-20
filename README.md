@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on **Automation & Web3 Projects**
 - 👨‍💻 My projects are available at [via website](https://nirajpradhan.com.np)
 - 💬 Ask me about **Software Development**
-- 📫 How to reach me [via email](contact@nirajpradhan.com.np)
+- 📫 How to reach me [contact@nirajpradhan.com.np](contact@nirajpradhan.com.np)
 - 📄 Know about my experiences [via resume](https://pub-69efd47650a0420f8446677d9eef8f8f.r2.dev/portfolio/Niraj_Pradhan_Resume.pdf)
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nirajpdn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nirajpdn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@nirajpradhan.com.np) 
