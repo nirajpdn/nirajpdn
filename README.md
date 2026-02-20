@@ -1,10 +1,8 @@
-### Hi there
+# Hi, I'm Niraj Pradhan
+5+ years experienced product-focused Full Stack Engineer who builds scalable systems and leads execution.
 
-<div>
-<img align="left"  width="49%" src="https://github-readme-stats.vercel.app/api?username=nirajpdn&count_private=true&theme=tokyonight&show_icons=true" />
-  
-<img align="left"  width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirajpdn&layout=compact&theme=tokyonight" />
-</div>
+### Stats
+[![Niraj Pradhan profile views](https://u8views.com/api/v1/github/profiles/59108522/views/day-week-month-total-count.svg)](https://u8views.com/github/nirajpdn)
 <!--
 **nirajpdn/nirajpdn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
