@@ -4,7 +4,7 @@
 5+ years experienced product-focused Full Stack Engineer who builds scalable systems and leads execution.
 - 🔭 I’m currently working on **Collab Drawing**.
 - 🌱 I’m currently learning **AI tools & Automations**.
-- 👯 I’m looking to collaborate on **Automation & Web3 Projects**
+- 👯 I’m looking to collaborate on **Automation & Web3 Projects**.
 - 👨‍💻 My projects are available [on website](https://nirajpradhan.com.np)
 - 💬 Ask me about **Software Development**
 - 📫 How to reach me <a href="mailto:contact@nirajpradhan.com.np">via email</a>
