@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **AI tools & Automations**.
 - 👯 I’m looking to collaborate on **Automation & Web3 Projects**.
 - 👨‍💻 My projects are available [on website](https://nirajpradhan.com.np)
-- 💬 Ask me about **Software Development**
+- 💬 Ask me about **Software Development**.
 - 📫 How to reach me <a href="mailto:contact@nirajpradhan.com.np">via email</a>
 - 📄 Know about my experiences [via resume](https://pub-69efd47650a0420f8446677d9eef8f8f.r2.dev/portfolio/Niraj_Pradhan_Resume.pdf)
 # 🌐 Socials:
