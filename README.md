@@ -1,4 +1,13 @@
 # 💫 About Me:
+```
+       _             _           _       
+      (_)           (_)         | |      
+ ____  _  ____ ____  _ ____   _ | |____  
+|  _ \| |/ ___) _  || |  _ \ / || |  _ \ 
+| | | | | |  ( ( | || | | | ( (_| | | | |
+|_| |_|_|_|   \_||_|| | ||_/ \____|_| |_|
+                  (__/|_|
+```
 
 ## Hi, I'm Niraj Pradhan
 5+ years experienced product-focused Full Stack Engineer who builds scalable systems and leads execution.
